@@ -1,0 +1,15 @@
+.card{
+    background-color:inherit ;
+}
+#projectimage{
+    background-repeat: no-repeat;
+  background-size: contain;
+  width: 100%;
+  height: 400px;
+  z-index: 0;
+}
+.nav-link:hover{
+    background-color: #eef115;
+    border-color: whitesmoke;
+    color: aliceblue;
+}
