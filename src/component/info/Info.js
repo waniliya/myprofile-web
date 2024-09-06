@@ -32,7 +32,7 @@ const Info=()=> {
         <p><small>Get more information via download my resume or email to me:</small> </p>
         <div class="btn-group" role="group" aria-label="Basic example">
             <a type="button" className="btn btn-outline-primary" href={resume} download="Resume Wan Mohamad Iliya.pdf"><i class="bi bi-file-earmark-arrow-down"></i> Download Resume <small>(117KB)</small></a>
-            <a type="button" className="btn btn-outline-primary" href = "mailto: waniliya8@gmail.com"><i class="bi bi-envelope"></i> Contact me via email</a>
+            <a type="button" className="btn btn-outline-primary" href = "mailto: waniliya97@gmail.com"><i class="bi bi-envelope"></i> Contact me via email</a>
         </div>
         </div>
 
