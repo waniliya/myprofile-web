@@ -30,7 +30,12 @@ function App() {
       <header className="App-header">
       
         <div className="NavBar">
-            <nav>
+            <nav className="navbar navbar-expand-lg bg-body-tertiary">
+              <div class="container-fluid">
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+              </button>
+               <div class="collapse navbar-collapse justify-content-md-center" id="navbarTogglerDemo03">
                 <ul>
                     <li>
                         <a href="#sec1">Home</a>
@@ -52,14 +57,13 @@ function App() {
                     </li>
 
                 </ul>
-               
+                </div>
+               </div>
             </nav>
-           
-            
         </div>
         
         <div className=" position-fixed top-50 end-0 translate-middle-y">
-            <p className="darkmode text-start opacity-75">Need dark mode?</p>
+            <p className="darkmode text-start opacity-75">Dark mode</p>
             <input type="checkbox" class="theme-checkbox "onClick={toggleDarkMode}></input>
             </div>
 
@@ -78,9 +82,9 @@ function App() {
         <ul className='nav justify-content-center border-bottom pb-3 mb-3'>
           <li className='nav-item'><a className='nav-link px-2 text-muted' href="#sec1">Back To Info</a></li>
           <li className='nav-item'><a className='nav-link px-2 text-muted' href="https://github.com/waniliya">GitHub</a></li>
-          <li className='nav-item'><a className='nav-link px-2 text-muted' href = "mailto: waniliya8@gmail.com">Contact Me</a></li>
+          <li className='nav-item'><a className='nav-link px-2 text-muted' href = "mailto: waniliya97@gmail.com">Contact Me</a></li>
         </ul>
-        <p className='text-center text-muted'>© 2024 waniliya8@gmail.com</p>
+        <p className='text-center text-muted'>© 2024 waniliya97@gmail.com</p>
       </footer>
       </div>
       
