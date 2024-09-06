@@ -53,7 +53,8 @@ const Project=()=> {
               focusable="false" src={ecommerce} alt="imagepej4" id="projectimage"></img>
               <div className="card-body">
                 <p className='card-text'>Project 4: E-commerce Web + Admin Panel </p>
-                <p className='badge text-bg-success'> In Progress...
+                <p> E-commerce web for a company sells the products to their customers. This project contains admin panel to manage product, client for customers buy the products and backend 
+                part.
                 </p>
                 <p> Stack: React JS, ExpressJS, NodeJS, JWT and Mongodb</p>
                 <a type="button" className="btn btn-outline-primary disabled" href="https://github.com/waniliya" ><i class="bi bi-github"></i> Github</a>
