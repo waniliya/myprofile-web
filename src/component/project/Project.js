@@ -57,7 +57,7 @@ const Project=()=> {
                 part.
                 </p>
                 <p> Stack: React JS, ExpressJS, NodeJS, JWT and Mongodb</p>
-                <a type="button" className="btn btn-outline-primary disabled" href="https://github.com/waniliya" ><i class="bi bi-github"></i> Github</a>
+                <a type="button" className="btn btn-outline-primary" href="https://github.com/waniliya" ><i class="bi bi-github"></i> Github</a>
               </div>
             </div>
           </div>
