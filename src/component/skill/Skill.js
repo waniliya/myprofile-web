@@ -12,7 +12,7 @@ const Skill=()=> {
             <ul>
               <li><b>Advanced: </b> HTML</li>
               <li><b>Intermediate: </b> CSS, Javascript, PHP, SQL</li>
-              <li><b>Beginner: </b>Python, Java/Java EE, C/C++,</li></ul>
+              <li><b>Beginner: </b>Python, Java/Java EE, C/C++</li></ul>
         </div>
         <div className='col-lg-6'>
         <h4>Software/Framework</h4>
