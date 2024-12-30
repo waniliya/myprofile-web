@@ -2,7 +2,7 @@ import './Project.css'
 import calculator from './../../img/calculatorapp.png';
 import todo from './../../img/todo.png';
 import ecommerce from './../../img/ecommerce.JPG';
-import expense from './../../img/expensesui.jpg';
+import expense from './../../img/expensesui.JPG';
 
 const Project=()=> {
   return (
